@@ -5,5 +5,5 @@ Proposta de arquitetura de projeto para aplicações funcionais combinando os pr
 ## Conceitos
 Cada Projeto Currying-compose é uma biblioteca de funções e detém uma estrutura fixa de arquivos. O projeto terá o seguinte esquema:
 
-![image](https://user-images.githubusercontent.com/48892066/190886389-be713d68-c255-4b80-baaf-49a6a95a6574.png)
+<img src="https://user-images.githubusercontent.com/48892066/190886389-be713d68-c255-4b80-baaf-49a6a95a6574.png" style="width: 100px;"/>
 
