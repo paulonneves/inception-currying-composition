@@ -7,4 +7,7 @@ Cada Projeto Currying-compose é uma biblioteca de funções e detém uma estrut
 
 <img src="https://user-images.githubusercontent.com/48892066/190886389-be713d68-c255-4b80-baaf-49a6a95a6574.png" style="width: 500px;"/>
 
+> Objetividade: Note que as funções devem ser puras e ter responsabilidade única. Assim como funções matemáticas Entrada -> Processamento/composição -> Saida.
+> Currying: As funções esperam parâmetros e a partir desses retornam supostas ações. 
+
 
