@@ -9,14 +9,14 @@ Cada Projeto Currying-compose é uma biblioteca de funções e detém uma estrut
 
 Além disso há um conjunto de regras a serem seguidas:
 
-[ ] As funções devem ser puras e ter apenas uma única responsabilidade.
+> As funções devem ser puras e ter apenas uma única responsabilidade.
 
-[ ] Não deve haver laços de repetição.
+> Não deve haver laços de repetição.
 
-[ ] O arquivo Filters deve haver apenas funções com verificação booleana.
+> O arquivo Filters deve haver apenas funções com verificação booleana.
 
-[ ] Os arquivos Maps e Reducers devem lidar com um item do array e serão usadas para implementação do map e reduce no arquivo Composers.
+> Os arquivos Maps e Reducers devem lidar com um item do array e serão usadas para implementação do map e reduce no arquivo Composers.
 
-[ ] Os transformers são funções que lidam com o array ou objeto inteiro.
+> Os transformers são funções que lidam com o array ou objeto inteiro.
 
 
